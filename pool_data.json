@@ -1,0 +1,20 @@
+{
+	'f5_pool_1': [{
+		'name': 'pool_1_server_1',
+		'ip_address': '1.1.1.1',
+		'state': 'user-down'
+	}, {
+		'name': 'pool_1_server_2',
+		'ip_address': '2.2.2.2',
+		'state': 'user-down'
+	}],
+	'f5_pool_2': [{
+		'name': 'pool_2_server_1',
+		'ip_address': '11.11.11.11',
+		'state': 'up'
+	}, {
+		'name': 'pool_2_server_2',
+		'ip_address': '22.22.22.22',
+		'state': 'user-down'
+	}]
+}
