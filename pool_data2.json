@@ -4,7 +4,7 @@
 {
 "name": "pool1server1",
 "ipaddress": "1.1.1.1",
-"state": "user-down"
+"state": "up"
 },
 {
 "name": "pool1server2",
@@ -17,12 +17,17 @@
 {
 "name": "pool2server1",
 "ipaddress": "2.1.1.1",
-"state": "user-down"
+"state": "down"
 },
 {
 "name": "pool2server2",
 "ipaddress": "2.1.1.2",
 "state": "user-down"
+},
+{
+"name": "pool2server3",
+"ipaddress": "3.1.1.3",
+"state": "up"
 }
 ]
 }
